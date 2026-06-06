@@ -157,6 +157,7 @@ This project demonstrates the practical application of deep learning and compute
 ## Author
 
 Ibrahim Abubakar Buba
+
 Visionset AI Project june 2026
 
 Building practical AI solutions for education, computer vision, and intelligent automation.
