@@ -1,6 +1,4 @@
-# VisionAttendAI-Core
-
-## Deep Learning-Based Student Identification System Built with PyTorch and Designed for AI-Powered Attendance Automation
+# Deep Learning-Based Student Identification System Built with PyTorch and Designed for AI-Powered Attendance Automation
 
 VisionAttendAI-Core is a computer vision and deep learning research project focused on student face recognition using Convolutional Neural Networks (CNNs).
 
@@ -80,9 +78,10 @@ Future versions will extend the project into a complete attendance management pl
 ```text
 VisionAttendAI-Core/
 │
+├
 ├── data/
-├── data_p1/
-│   └── data_undersampled/
+|   |__ dataset/
+│   └── dataset_undersampled/
 │
 ├── model/
 │   └── JAYset_1.0.pth
@@ -158,7 +157,6 @@ This project demonstrates the practical application of deep learning and compute
 ## Author
 
 Ibrahim Abubakar Buba
-
-VisionSet AI
+Visionset AI Project june 2026
 
 Building practical AI solutions for education, computer vision, and intelligent automation.
